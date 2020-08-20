@@ -1,0 +1,36 @@
+{
+   "packages":[
+      {
+         "name":"MassDuino",
+         "maintainer":"INHAOS",
+         "websiteURL":"http://www.inhaos.com/",
+         "email":"support@inhaos.com",
+         "help":{
+            "online":"http://www.inhaos.com/download.php"
+         },
+         "platforms":[
+            {
+               "name":"MassDuino Ev Boards",
+               "architecture":"avr",
+               "version":"1.6.8",
+               "category":"Contributed",
+               "url":"https://github.com/dimag0g/massduino_boards/files/5101592/massduino-1.6.8.zip",
+               "archiveFileName":"massduino-1.6.8.zip",
+               "checksum":"MD5:59dd02946ad904d6a04e85f0f657a920",
+               "size":"541888",
+               "help":{
+                  "online":"http://www.inhaos.com/download.php"
+               },
+               "boards":[
+                  { "name":"MassDuino UNO Pro MD3248P-LQFP48" },
+                  { "name":"MassDuino UNO MD3208P-LQFP32" },
+                  { "name":"MassDuino UNO LC MD328D-LQFP32" },
+                  { "name":"MassDuino UNO R4 MD88D-SSOP20" }
+               ]
+            }
+         ],
+      "tools": []
+      }
+   ]
+}
+
