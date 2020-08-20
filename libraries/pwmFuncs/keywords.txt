@@ -1,0 +1,36 @@
+#######################################
+# Syntax Coloring Map For Ultrasound
+#######################################
+
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+pwmMode			KEYWORD2
+pwmFrequency			KEYWORD2
+pwmResolution			KEYWORD2
+pwmWrite			KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+PWM_MODE_NORMAL         LITERAL1
+PWM_MODE_COMPM0         LITERAL1
+PWM_MODE_COMPM1         LITERAL1
+PWM_MODE_COMPM2         LITERAL1
+PWM_MODE_COMPM3         LITERAL1
+PWM_MODE_SOLO           LITERAL1
+PWM_MODE_DUO0           LITERAL1
+PWM_MODE_DUO1           LITERAL1
+PWM_MODE_DUO2           LITERAL1
+PWM_MODE_DUO3           LITERAL1
+PWM_FREQ_BOOST          LITERAL1
+PWM_FREQ_FAST           LITERAL1
+PWM_FREQ_NORMAL         LITERAL1
+PWM_FREQ_SLOW           LITERAL1

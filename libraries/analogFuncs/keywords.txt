@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map For Ultrasound
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+analogRead_10bits			KEYWORD2
+analogRead_11bits			KEYWORD2
+analogRead_12bits			KEYWORD2
+analogRead_13bits			KEYWORD2
+analogRead_14bits			KEYWORD2
+analogRead_15bits			KEYWORD2
+analogRead_16bits			KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+

@@ -1,0 +1,8 @@
+# See: http://code.google.com/p/arduino/wiki/Platforms
+
+mdmkii.name=MDSWD mkII as ISP
+mdmkii.communication=usb
+mdmkii.protocol=jtag2isp
+mdmkii.program.protocol=jtag2isp
+mdmkii.program.tool=avrdude
+mdmkii.program.extra_params=-Pusb
